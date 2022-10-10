@@ -1,0 +1,4 @@
+- 👋 Hi, I’m BCBUUD from budlabs
+- 👀 I’m interested in web development and building apps that are useful forever
+- 🌱 I’m currently learning solidity flask 
+- Head Developer of Budlabs.
